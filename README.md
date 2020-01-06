@@ -13,3 +13,4 @@
 
 गल्तीहरू क्रमशः सच्याईँदै गइनेछ। प्रतिलिपि अधिकार यसका प्रकाशकमा सुरक्षित छ।
 
+"इरिडर"का लागि `.epub` चाहिए [यो](https://github.com/pranphy/sumnima-bp-koirala/releases/download/0.0.1/Sumnima-BP_Koirala.epub) डाउनलोड गर्नुहोला।
